@@ -10,7 +10,6 @@ echo ::::::::::::::::::::::::::::::::::
 echo postscript file created !!
 echo ::::::::::::::::::::::::::::::::::
 echo
-ps2pdf final.ps
 ps2pdf final.ps				#creates pdf file from postscript file, this is a highly compressed version of the postscript file, and is good for web viewing
 echo
 echo ::::::::::::::::::::::::::::::::::
